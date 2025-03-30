@@ -10,3 +10,4 @@
  scanf("%f",&height);
 
  area=(base*height)\2;
+ printf("The area of triangle is:%.2f",area);
