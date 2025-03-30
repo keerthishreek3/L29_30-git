@@ -11,3 +11,6 @@
 
  area=(base*height)\2;
  printf("The area of triangle is:%.2f",area);
+
+ return 0;
+ }
