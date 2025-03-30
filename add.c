@@ -7,3 +7,7 @@
  
  printf("Enter the second number: ");
   scanf("%d",&b);
+
+  sum=a+b;
+
+
