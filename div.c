@@ -7,3 +7,5 @@ int main(){
 
   printf("Enter the divisor: ");
   scanf("%f",&b);
+
+  quot=a/b;
