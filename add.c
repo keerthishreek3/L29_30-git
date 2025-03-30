@@ -11,3 +11,6 @@
   sum=a+b;
 
   printf("\nThe sum of %d and %d = %d",sum);
+  
+  return 0;
+  }
