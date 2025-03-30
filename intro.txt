@@ -1,3 +1,4 @@
 Hello! 
 Welcome to Gitbash
 Learn the basic commands used here
+pwd-displays the current directory
