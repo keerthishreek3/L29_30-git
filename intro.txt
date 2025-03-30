@@ -1,6 +1,8 @@
 Hello! 
 Welcome to Gitbash
 Learn the basic commands used here
-pwd-displays the current directory
-ls-list of directories
-mkdir-to create a directory
+
+pwd -    displays the current directory
+ls -    list of directories
+mkdir -  to create a directory
+cd -     to navigate bw different folders  
