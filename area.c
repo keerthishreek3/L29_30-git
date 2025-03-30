@@ -9,4 +9,4 @@
  printf("Enter the height of the triangle: ");
  scanf("%f",&height);
 
-
+ area=(base*height)\2;
