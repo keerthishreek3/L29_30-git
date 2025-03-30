@@ -9,3 +9,4 @@ int main(){
   scanf("%f",&b);
 
   quot=a/b;
+  	printf("\nThe quotient of two numbers is %.2f",quot);
