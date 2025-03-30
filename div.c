@@ -3,4 +3,7 @@ int main(){
   float a,b,quot;
   
   printf("Enter the divident: ");
-  scanf("%F",&a);
+  scanf("%f",&a);
+
+  printf("Enter the divisor: ");
+  scanf("%f",&b);
