@@ -1,2 +1,3 @@
 "NEURALINK"
-It is an American Neurotechnology company
+It is an American Neurotechnology company.
+The company has developed as a 2024,Implantable brain-computer interfaces(BCI's).
